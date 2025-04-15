@@ -24,7 +24,10 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	
+<<<<<<< HEAD
 	
+=======
+>>>>>>> refs/remotes/origin/master
 	//jstl
 	implementation group: 'jakarta.servlet.jsp.jstl', name: 'jakarta.servlet.jsp.jstl-api', version: '3.0.0'
 		
